@@ -1,7 +1,7 @@
 .boldHeader{
 	font-weight: bold;
 	font-family: Arial;
-	color: red;
+	color: blue;
 }
 
 .footer{
@@ -11,12 +11,12 @@
 }
 
 button {
-	background-color: #4CAF50;
+	background-color: yellow;
     border: none;
-    color: white;
+    color: darkgray;
     padding: 10px;
     text-align: center;
-    text-decoration: none;
+    text-decoration: underline;
     display: inline-block;
     font-size: 14px;
     margin: 4px 2px;

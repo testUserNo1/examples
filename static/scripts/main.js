@@ -1,3 +1,3 @@
 function sayHello(){
-	alert("hello from JS")
+	alert("hello from Git")
 }
